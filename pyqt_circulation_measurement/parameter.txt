@@ -1,0 +1,35 @@
+{
+  "file_name": "C:\\Users\\Hilty\\Desktop\\NSOR\\Data\\2018\\Aug\\0802\\NMR_sig_pulse_length",
+  "pulse_file": "simple_sequence.txt",
+  "time_x_limit": [
+    "0",
+    "1"
+  ],
+  "time_y_limit": [
+    "-1",
+    "1"
+  ],
+  "freq_x_limit": [
+    "31000",
+    "31400"
+  ],
+  "freq_y_limit": [
+    "0",
+    "1"
+  ],
+  "time_cursor": [
+    "0.002",
+    "1"
+  ],
+  "freq_cursor": [
+    "31100",
+    "31300"
+  ],
+  "sampling_rate": "250000",
+  "iteration": "60",
+  "average": "1",
+  "pulse_channel": "Dev1/ao1",
+  "nmr_channel": "Dev1/ai1",
+  "nsor_channel": "Dev1/ai4",
+  "laser_channel": "Dev1/ai7"
+}
